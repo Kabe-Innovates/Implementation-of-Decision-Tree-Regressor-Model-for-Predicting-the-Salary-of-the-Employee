@@ -60,7 +60,7 @@ from sklearn.metrics import r2_score
 r2=r2_score(y_test,y_pred)
 ```
 ```
-R2 score:  0.48611111111111116
+print("R2 score:",r2)
 
 
 ```
